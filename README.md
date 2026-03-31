@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ![Followers](https://img.shields.io/github/followers/Ghopuser45?style=social)
 ![Stars](https://img.shields.io/github/stars/Ghopuser45?style=social)
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ghopuser45&theme=github_dark)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ghopuser45&theme=github_dark)
