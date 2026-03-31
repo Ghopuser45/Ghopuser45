@@ -16,7 +16,6 @@ Aprendendo os fundamentos do desenvolvimento de jogos com a **Godot Engine**, en
 - 🌐 Estudando desenvolvimento web (HTML, CSS, JavaScript)
 - 🐍 Praticando lógica e algoritmos com **Python** e **C/C++**
 - 🌱 Sempre aprendendo e construindo novos projetos
-- ⚡ Curiosidade: jogos me inspiraram a entrar na programação!
 
 ---
 
@@ -52,7 +51,7 @@ Aprendendo os fundamentos do desenvolvimento de jogos com a **Godot Engine**, en
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ghopuser45&layout=donut&theme=dark&hide_border=true&langs_count=8)
+![Top Langs](https://readme-stats.codeSTACKr.com/api/top-langs/?username=Ghopuser45&layout=donut&theme=dark)
 
 </div>
 
