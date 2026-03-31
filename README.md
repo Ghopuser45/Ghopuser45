@@ -51,7 +51,9 @@ Aprendendo os fundamentos do desenvolvimento de jogos com a **Godot Engine**, en
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ghopuser45&layout=donut&theme=dark&hide_border=true&langs_count=8)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ghopuser45&theme=github_dark)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ghopuser45&theme=github_dark)
+
 
 </div>
 
@@ -61,7 +63,9 @@ Aprendendo os fundamentos do desenvolvimento de jogos com a **Godot Engine**, en
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=Ghopuser45&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&rank_icon=github)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ghopuser45&theme=github_dark)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ghopuser45&theme=github_dark&utcOffset=-3)
+
 
 </div>
 
