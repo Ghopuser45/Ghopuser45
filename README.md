@@ -51,7 +51,7 @@ Aprendendo os fundamentos do desenvolvimento de jogos com a **Godot Engine**, en
 
 <div align="center">
 
-![Top Langs](https://readme-stats.codeSTACKr.com/api/top-langs/?username=Ghopuser45&layout=donut&theme=dark)
+![Top Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ghopuser45&layout=donut&theme=dark&hide_border=true&langs_count=8)
 
 </div>
 
