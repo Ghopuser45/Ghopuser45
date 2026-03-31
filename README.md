@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghopuser45&theme=github_dark)
+![Followers](https://img.shields.io/github/followers/Ghopuser45?style=social)
+![Stars](https://img.shields.io/github/stars/Ghopuser45?style=social)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghopuser45&layout=compact)
