@@ -1,16 +1,16 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=200&section=header&text=Gustavo%20Henrique&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20in%20Making%20🎮&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=200&section=header&text=Gustavo%20Henrique&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Jogos+em+formação+🎮;Aprendendo+Godot+Engine;Web+Developer+%7C+Python+%7C+C%2B%2B;Sempre+criando+algo+novo+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Aspirante+a+desenvolvedor+de+jogos+em+formação+🎮;Aprendendo+Godot+Engine)
 
 </div>
 
 ---
 
-### 🙋‍♂️ Sobre mim
+### 🤔 Em Progresso
 
-Sou o Gustavo, desenvolvedor iniciante apaixonado por jogos e tecnologia. Estou aprendendo os fundamentos do desenvolvimento de jogos com a **Godot Engine**, enquanto também evoluo nas áreas de desenvolvimento web e programação. Acredito que jogos são uma das formas mais criativas de expressar ideias e resolver problemas.
+Aprendendo os fundamentos do desenvolvimento de jogos com a **Godot Engine**, enquanto também busca evoluir nas áreas de desenvolvimento web e programação.
 
 - 🎮 Aprendendo desenvolvimento de jogos com **Godot Engine**
 - 🌐 Estudando desenvolvimento web (HTML, CSS, JavaScript)
@@ -42,30 +42,27 @@ Sou o Gustavo, desenvolvedor iniciante apaixonado por jogos e tecnologia. Estou 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
 
 </div>
 
 ---
 
-### 📊 Meu GitHub Stats
+### 📊 Top Langs
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghopuser45&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ghopuser45&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ghopuser45&theme=github_dark&utcOffset=-3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghopuser45&layout=donut&theme=dark&hide_border=true&langs_count=8)
 
 </div>
 
 ---
 
-### 🔥 Streak de Contribuições
+### 📈 Profile Stats
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ghopuser45&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghopuser45&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&rank_icon=github)
 
 </div>
 
