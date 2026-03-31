@@ -73,5 +73,5 @@ Aprendendo os fundamentos do desenvolvimento de jogos com a **Godot Engine**, en
 <div align="center">
 
 <div align="center">
-  <img src="./artorias-dark-souls (1).gif" width="100%" />
+  <img src="./artorias-dark-souls (1).gif"/>
 </div>
