@@ -37,7 +37,6 @@ Aprendendo os fundamentos do desenvolvimento de jogos com a **Godot Engine**, en
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 **Ferramentas**
 
@@ -66,30 +65,13 @@ Aprendendo os fundamentos do desenvolvimento de jogos com a **Godot Engine**, en
 <div align="center">
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ghopuser45&theme=github_dark)
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ghopuser45&theme=github_dark&utcOffset=-3)
-
 
 </div>
-
----
-
-### 🎮 Minha Jornada no Game Dev
-```
-[===========>                    ] Godot Engine      ▸ Aprendendo fundamentos
-[========>                       ] GDScript          ▸ Praticando
-[================>               ] Lógica de Jogos   ▸ Em desenvolvimento
-[========================>       ] Paixão por Jogos  ▸ Nível MAX 🔥
-```
 
 ---
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/Ghopuser45?style=social)
-![Stars](https://img.shields.io/github/stars/Ghopuser45?style=social)
-
-*"Cada jogo começa com uma única linha de código."* 🎮
-
+<div align="center">
+  <img src="./artorias-dark-souls (1).gif" width="100%" />
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=100&section=footer)
