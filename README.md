@@ -16,7 +16,7 @@ Aprendendo os fundamentos do desenvolvimento de jogos com a **Godot Engine**, en
 
 - 🎮 Aprendendo desenvolvimento de jogos com **Godot Engine**
 - 🌐 Estudando desenvolvimento web (HTML, CSS, JavaScript)
-- 🐍 Praticando lógica e algoritmos com **Python** e **C/C++**
+- 🐍 Praticando lógica e algoritmos com **Python**, **C/C++** e **C#**
 - 🌱 Sempre aprendendo e construindo novos projetos
 
 ---
@@ -29,7 +29,6 @@ Aprendendo os fundamentos do desenvolvimento de jogos com a **Godot Engine**, en
 
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Web & Programação**
 
