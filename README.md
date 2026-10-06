@@ -10,18 +10,18 @@
 
 ---
 
-### 🤔 Em Progresso
+### 🤔 In Progress
 
-Aprendendo os fundamentos do desenvolvimento de jogos com a **Godot Engine**, enquanto também busca evoluir nas áreas de desenvolvimento web e programação.
+Learning game development fundamentals with **Godot Engine**, while also looking to grow in web development and programming.
 
-- 🎮 Aprendendo desenvolvimento de jogos com **Godot Engine**
-- 🌐 Estudando desenvolvimento web (HTML, CSS, JavaScript)
-- 🐍 Praticando lógica e algoritmos com **Python**, **C/C++** e **C#**
-- 🌱 Sempre aprendendo e construindo novos projetos
+- 🎮 Learning game development with **Godot Engine**
+- 🌐 Studying web development (HTML, CSS, JavaScript)
+- 🐍 Practicing logic and algorithms with **Python**, **C/C++**, and **C#**
+- 🌱 Always learning and trying to building new projects
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Technologies and Tools
 
 <div align="center">
 
@@ -30,14 +30,14 @@ Aprendendo os fundamentos do desenvolvimento de jogos com a **Godot Engine**, en
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
-**Web & Programação**
+**Web & Programming**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Ferramentas**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
